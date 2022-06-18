@@ -3,7 +3,7 @@ package baekJoon;
 public class test {
 
 	public static void main(String[] args) {
-		//test용
+		//test용 하 제발
 	}
 
 }
