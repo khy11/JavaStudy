@@ -13,6 +13,7 @@ public class P123N7 {
 		//철수와 영희 이름을 받는 메서드 생성
 		public static String input(String n) {
 			Scanner sc = new Scanner(System.in);
+			
 			System.out.printf(n+": ");
 			n = sc.next();
 			

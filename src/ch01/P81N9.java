@@ -6,10 +6,13 @@ public class P81N9 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
 		System.out.print("이수한 전공 학점을 입력하세요 : ");
 		int a = sc.nextInt();
+		
 		System.out.print("이수한 교양 학점을 입력하세요 : ");
 		int b = sc.nextInt();
+		
 		System.out.print("이수한 일반 학점을 입력하세요 : ");
 		int c = sc.nextInt();
 		

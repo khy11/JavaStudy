@@ -7,8 +7,10 @@ public class P123N6 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("철수 : ");
+		
 		String m = sc.nextLine();
 		System.out.print("영희 : ");
+		
 		String w = sc.nextLine();		
 		
 		// 가위:s 바위:r 보:p

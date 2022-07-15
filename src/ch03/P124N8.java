@@ -12,6 +12,7 @@ public class P124N8 {
          {
             case 0 -> 1;
             case 1 -> 1;
+            
             default -> factorial(n-1)*n;
 		  } ;
 	 }

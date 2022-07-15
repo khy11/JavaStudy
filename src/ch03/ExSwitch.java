@@ -6,10 +6,13 @@ public class ExSwitch {
 		int num = 3;
 		
 		switch (num) {
+		
 		case 3 : 
 			System.out.println("3개");
+			
 		case 2:
 			System.out.println("2개");
+			
 		case 1:
 			System.out.println("1개");
 		}
