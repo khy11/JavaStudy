@@ -1,13 +1,13 @@
 package foundation;
 
 public class Card {
-	String type;
+	String type; //인스턴스 변수
 	String color;
 	int cvc;
 	
 	//2. 카드의 타입알아내는 메서드 생성
-	Card(String type, String color, int cvc) {
-		this.type = type;
+	Card(String type, String color, int cvc) { //매개변수
+		this.type = type; // 지역변수(매개변수)
 		this.color = color;
 		this.cvc = cvc;
 	}
