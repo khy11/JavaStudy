@@ -6,9 +6,9 @@ public class Card {
 	int cvc;
 	
 	//2. 카드의 타입알아내는 메서드 생성
-	Card(String t, String c, int cvc) {
-		type = t;
-		color = c;
+	Card(String type, String color, int cvc) {
+		this.type = type;
+		this.color = color;
 		this.cvc = cvc;
 	}
 	
